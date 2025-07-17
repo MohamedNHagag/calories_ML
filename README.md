@@ -59,4 +59,3 @@ Given features like **age**, **weight**, **height**, **duration of exercise**, a
 
 ---
 
-## 📂 Project Structure
